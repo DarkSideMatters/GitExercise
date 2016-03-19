@@ -41,7 +41,10 @@ final class StaticWordLibrary extends WordLibrary {
         "word",
         "shell",
         "road",
-        "github"
+        "github",
+        "plamen",
+        "nobodylooksatthisanyway",
+        "onemoreword"
     };
 
     private static final String[] SCRAMBLED_WORD_LIST = {
@@ -49,7 +52,10 @@ final class StaticWordLibrary extends WordLibrary {
         "dorw",
         "hells",
         "doar",
-        "huvgit"
+        "huvgit",
+        "dipshit",
+        "dothey?",
+        "FUCK"
     };
     
     final static WordLibrary DEFAULT = new StaticWordLibrary();
